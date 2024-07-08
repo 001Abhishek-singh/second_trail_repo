@@ -7,3 +7,6 @@ else:
     print('no you are not correct')
 
 print("i want to check my github")
+
+a = "name is kunal"
+print(a)
