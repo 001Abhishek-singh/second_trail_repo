@@ -5,3 +5,5 @@ if result >= 20:
     print("yes you are correct")
 else:
     print('no you are not correct')
+
+print("i want to check my github")
